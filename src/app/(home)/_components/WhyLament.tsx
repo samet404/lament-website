@@ -1,5 +1,4 @@
 import { cn } from '@/utils/cn'
-import type { LucideIcon } from 'lucide-react'
 import type { ReactNode } from 'react'
 
 export const WhyLament = ({
